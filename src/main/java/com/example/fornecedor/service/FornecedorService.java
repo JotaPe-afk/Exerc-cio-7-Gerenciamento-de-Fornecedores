@@ -1,4 +1,4 @@
-package com.example.fornecedor;
+package com.example.fornecedor.service;
 
 import com.example.fornecedor.models.FornecedorModel;
 import com.example.fornecedor.repository.FornecedorRepository;
